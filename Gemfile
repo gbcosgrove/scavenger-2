@@ -27,8 +27,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'devise', '~>3.2.4'
 gem 'cancan', '~>1.6.10'
 gem 'bcrypt', '~> 3.1.7'
-
-
+gem 'omniauth', '~> 1.2.1'
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
 
